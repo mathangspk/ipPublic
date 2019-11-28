@@ -1,0 +1,15 @@
+{
+  "name": "getippulic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getIpPublic.js",
+  "scripts": {
+    "start": "node getIpPublic.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "puppeteer": "^2.0.0"
+  }
+}
